@@ -1,0 +1,7 @@
+bin,type,count,percentage
+-1-0.015,Water,999071,26.32
+0.015-0.14,Built-up,2763933,72.82
+0.14-0.18,Barren,14322,0.38
+0.18-0.27,Shrub and Grassland,14599,0.38
+0.27-0.36,Sparse,3368,0.09
+0.36-1,Dense,368,0.01
